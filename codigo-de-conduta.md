@@ -1,160 +1,131 @@
-# Código de Conduta
+# Termo de Conduta da Comunidade e Escola
+**SCALAR SCHOOL OF BITCOIN DEVELOPERS**
 
-É impossível ser intelectualmente e socialmente produtivo se você está sendo assediado, perseguido ou discriminado. Assim, espera-se que todos os membros da comunidade local demonstrem respeito e cortesia uns aos outros em todas as interações, seja pessoalmente, em nossa comunidade online ou em outros contextos.
-Para garantir que todos entendam o que significa "demonstrar respeito e cortesia uns aos outros", adotamos o seguinte código de conduta.
-Estamos comprometidos em fornecer um ambiente amigável, seguro e acolhedor para todos, independentemente do nível de experiência, identidade e expressão de gênero, orientação sexual, deficiência, aparência pessoal, tamanho do corpo, neurodivergência, raça, etnia, idade, religião, nacionalidade ou outras características.
-Exemplos de comportamentos que contribuem para a criação de um ambiente positivo incluem:
+A Comunidade e Escola SCALAR SCHOOL OF BITCOIN DEVELOPERS, desenvolvida e gerida integralmente pela Tecnologia Bitcoin Pesquisa e Desenvolvimento Ltda. e Scalar School, registrada sob o CNPJ nº 48.916.935/0001-49, como uma empresa sem fins lucrativos e de cunho social, está localizada em Ribeirão Preto, São Paulo, Brasil. Controlamos e operamos todo o conteúdo desta comunidade e escola, reservando todos os direitos.
 
-- Ser gentil e cortês com os outros
-- Usar uma linguagem acolhedora e inclusiva
-- Ser respeitoso com diferentes pontos de vista e experiências
-- Colaborar com outros membros da comunidade
-- Aceitar graciosamente as críticas construtivas
-- Focar no que é melhor para a comunidade
-- Demonstrar empatia para com os outros membros da comunidade
+Este Código de Conduta delineia as regras que todos os membros da comunidade, incluindo estudantes, parceiros e professores, bem como qualquer pessoa interessada em desenvolver seu conhecimento em Bitcoin e tecnologias relacionadas, devem seguir. Nosso objetivo é garantir que todos sejam tratados com igualdade e respeito, independentemente de gênero, orientação sexual, deficiência, aparência, tamanho, raça ou religião. Estamos comprometidos em manter uma atmosfera amigável e segura e promover um ambiente de aprendizagem seguro, respeitoso e produtivo.
 
-## Comportamentos inaceitáveis
-Os seguintes tipos de comportamento são inaceitáveis e constituem violações do código de conduta.
+**AO PARTICIPAR DA COMUNIDADE E ESCOLA, VOCÊ CONCORDA AUTOMATICAMENTE COM ESTE CÓDIGO DE CONDUTA, ASSUMINDO TOTAL RESPONSABILIDADE POR SUAS AÇÕES DENTRO DA COMUNIDADE, ESCOLA E SERVIÇOS RELACIONADOS. SE VOCÊ NÃO CONCORDA COM QUAISQUER TERMOS E CONDIÇÕES AQUI ESTABELECIDOS, VOCÊ NÃO DEVE PARTICIPAR DA COMUNIDADE E ESCOLA.**
 
-## Comportamentos abusivos
+## Estrutura deste Documento
+1. Sobre a Comunidade e Escola SCALAR SCHOOL OF BITCOIN DEVELOPERS
+2. Nossas Diretrizes de Conduta
+3. Direitos da Comunidade e Escola sobre Seu Comportamento
+4. Informações Adicionais sobre este Código de Conduta
 
-**Assédio**— incluindo comentários verbais ofensivos relacionados a gênero, orientação sexual, deficiência, aparência física, tamanho do corpo, raça ou religião, bem como imagens sexuais em espaços públicos, intimidação deliberada, perseguição, stalking, fotografia ou gravação de assédio, contato físico inapropriado e atenção sexual ou romântica indesejada.
+Para feedback, consultas ou outras questões relacionadas a este Código de Conduta, por favor, entre em contato conosco pelo e-mail: luciana@scalarschool.org
 
-**Ameaças**—ameaçar alguém fisicamente ou verbalmente. Por exemplo, ameaçar publicar informações sensíveis sobre a vida pessoal de alguém.
+---
 
-Assédio privado ou público de qualquer tipo não será tolerado. Como o assédio pode assumir muitas formas, aqui está uma lista não exaustiva do que consideramos comportamento inaceitável:
+## 1. SOBRE A COMUNIDADE E ESCOLA
 
-- Linguagem ofensiva direcionada a indivíduos ou grupos de pessoas
-- Intimidação e Bullying (verbal, física, social ou cibernética por meio de reações e comentários nas postagens)
-- Interferir na capacidade de alguém contribuir, como com críticas excessivas
-- Continuar a comunicação individual após uma das partes ter solicitado que cessasse
-- Perseguição e stalking online ou offline
-- Doxing ou publicação não autorizada de informações ou comunicações privadas
-- Atenção sexual indesejada
-- Exibição visual inapropriada, memes, fotografias, desenhos animados, desenhos ou gestos sexualmente orientados ou ofensivos, ou que objetificam um grupo de pessoas sexualmente
-- Retaliação por denunciar ou ameaçar denunciar assédio
+**1.1. Propósito:** A comunidade e escola foram estabelecidas para ensinar a todos sobre o desenvolvimento do Bitcoin, reconhecendo que o desenvolvimento do Bitcoin é um processo colaborativo e de código aberto acessível a desenvolvedores em todos os estágios.
 
-## Comportamentos hostis
+**1.2. Materiais didáticos:** Utilizamos um currículo que é uma convergência dos ensinamentos das principais escolas de desenvolvimento de Bitcoin do mundo, incluindo, mas não se limitando a, Base58, Chaincode Labs, Bitshala e Universidade de Nicosia. Nossos cursos também são baseados nas últimas edições dos livros 'Mastering Bitcoin' e 'Mastering the Lightning Network' da O’Reilly.
 
-**Flagrantes de hostilidade**—dizer coisas que são explicitamente racistas, sexistas, misóginas, homofóbicas, etc. Por exemplo, argumentar que algumas pessoas são menos inteligentes por causa de seu gênero, raça ou religião. Ou, que não temos mulheres suficientes no Bitcoin porque elas são ruins em Matemática ou inerentemente desinteressadas em campos STEM. Portanto, não podemos fazer nada para nutrir sua presença em nosso campo.
+**1.3. Aulas, Cursos, Palestras, Oportunidades de Aprendizagem:** Hospedamos nossas interações comunitárias em um servidor Discord. As aulas são conduzidas via Google Meet ou presencialmente na Fatec—Ribeirão Preto. O Discord está aberto para todos aprenderem, mas as aulas no Google Meet ou presenciais são organizadas com antecedência e participam de canais privados do Discord. Além disso, as aulas síncronas são gravadas para o benefício de outros estudantes.
 
-**Hostilidades sutis** e pequenos erros cometidos na conversa não são violações do código de conduta. No entanto, repetir algo depois de ter sido apontado para você que você quebrou uma regra social, ou antagonizar ou discutir com alguém que apontou a sua hostilidade sutil, é considerado comportamento indesejável.
+**1.4. Bitdevs:** Somos organizadores do Bitdevs Ribeirão Preto, que acontece toda última quinta-feira do mês no período noturno na Fatec. O código de conduta também se aplica para o evento. Detalhes dos encontros são anunciados na comunidade Meetup: [Meetup Tecnologia Bitcoin](https://www.meetup.com/tecnologia-bitcoin-pesquisa-e-desenvolvimento/)
 
-**Maldade para com outros membros da comunidade** —tentar deliberadamente fazer os outros se sentirem mal, insultar, destacar outros para ridicularizar ou excluir. Por exemplo, dizer a alguém que ele não é um programador de verdade ou que não pertence ao grupo. Se você notar qualquer sinal de que 'você não pertence', algo está errado e deve ser abordado logo no início.
+---
 
-**Ser especialmente desagradável**—por exemplo, se recebemos relatos de vários membros da comunidade ou do corpo docente sobre comportamento irritante, rude ou especialmente perturbador à produtividade do grupo. 
+## 2. NOSSAS DIRETRIZES DE CONDUTA
 
-## Atenção Sexual Indesejada ou Contato Físico
+**2.1. Escopo:** Comportamentos abusivos ou indesejáveis ainda impactam profundamente indivíduos e a comunidade quando acontecem fora dos nossos espaços físicos ou online. Se o comportamento de alguém fora da Comunidade e Escola Scalar School faz você se sentir inseguro dentro da Comunidade e Escola Scalar School, isso é absolutamente relevante e passível de ação por nossa parte.
 
-Atenção sexual indesejada ou contato físico indesejado não é aceitável. Isso inclui comentários, piadas ou imagens sexualizadas em interações, comunicações ou materiais de apresentação, bem como toques inapropriados, encostar no outro para falar, ou avanços sexuais.
+**2.2. Diretrizes Gerais:**
+Vivemos em um mundo diversificado, ainda assim, o respeito mútuo pelas diferenças é inegociável para nós. No ambiente aberto de desenvolvimento Bitcoin, o maior problema que vivenciamos é o da misoginia—ódio e desrespeito contra mulheres. Portanto, nos esforçamos continuamente para desenvolver um espaço seguro e respeitoso para qualquer pessoa na comunidade e escola, com especial atenção às pautas feministas no ecossistema.
 
-Além disso, tocar uma pessoa sem permissão, incluindo áreas sensíveis como o cabelo, barriga de grávida, dispositivo de mobilidade (cadeira de rodas, scooter, etc) ou tatuagens, é inaceitável. Isso inclui bloquear ou intimidar fisicamente outra pessoa. Contato físico ou contato físico simulado (como emojis do tipo "beijo") sem consentimento afirmativo é inaceitável. A partilha ou distribuição de imagens ou textos sexualizados é inaceitável. O objetivo é manter sempre o profissionalismo, mesmo quando as conversas forem de nível casual. 
+**2.3. Diretrizes Específicas:**
 
-## Sobre culpar a vítima
+(i) **Equidade de Gênero:** Homens, mulheres e todos os gêneros são bem-vindos. Buscamos uma equidade de gênero próxima a 50/50 entre homens e mulheres, pois acreditamos que isso tem o potencial de gerar melhor software e sociedades mais justas.
 
-> *“Não julgue. Seja um refúgio para um amigo, irmão, vizinho, colega de trabalho. Abra seu coração e mente para alguém que possa estar sofrendo. Pare de culpar as vítimas; devemos nos indignar mais com todas as formas de abuso. Ninguém tem o direito de ferir outra pessoa. O abuso verbal pode ser tão prejudicial quanto o abuso físico. Como sociedade, devemos nos indignar mais e responsabilizar esses perpetradores. Pare de fazer as vítimas sentirem como se ELAS tivessem feito algo errado. Se você ver algo, diga algo. Fale. VOCÊ pode estar salvando a vida de alguém.”*
+(ii) **Proibição de Conteúdos Misóginos:** É estritamente proibido o uso de conteúdos que objetifiquem sexualmente as mulheres ou que as diminuam intelectualmente. Isso inclui, mas não se limita a, referências ao Bitcoin Red Pill, cortes 38tão, e quaisquer materiais ou falas que diminuam a mulher, sua capacidade intelectual, ou seu direito de participar plenamente da comunidade aberta de desenvolvedores.
 
-—RAINN (Rape, Abuse & Incest National Network)
+(iii) **Anti-Feminismo e Biologismo:** Materiais anti-feministas e comunicações que usem tipificações biológicas são proibidos. Por exemplo, alegações como "Mulheres têm tendência a XYZ" ou "Homens gostam de KWY" não são aceitas.
 
-A culpabilização da vítima é uma realidade em nossa sociedade e se manifesta de diversas formas. Estaremos sempre trabalhando para tentar entender as ações e reações da vítima diante de uma situação de abuso. Por exemplo, suponha que a pessoa tente se defender e acabe causando dano ao abusador (verbalmente ou de outra forma). Nesse caso, tentaremos entender se o reflexo foi uma reação natural por parte da vítima. Queremos que as vítimas se sintam autoconfiantes para acabar com o abuso e proteger sua saúde mental. Ser capaz de se defender pode ajudar a curar os efeitos colaterais da situação abusiva.
+(iv) **Microagressões e Misoginias Sutis:** Microagressões, como comentários que subestimam a capacidade intelectual das mulheres, são proibidas. Um exemplo é dizer "Tinham mulheres no Bitdevs, elas conseguiram participar até dos assuntos técnicos mais difíceis", o que implica uma inferioridade intelectual baseada em gênero.
 
-Alguns exemplos são:
-— Uma pessoa que foi estuprada é considerada culpada porque provocou o estuprador, por estar usando saias curtas, ou por ter decidido beber ou usar drogas.
-— Responsabilizar vítimas pelo assédio ou discriminação que enfrentam, questionando por que não falaram antes ou por que estavam em um determinado lugar ou situação no trabalho.
-— Culpar alunos por um desempenho acadêmico ruim sem considerar fatores externos como dificuldades de aprendizagem, ambiente doméstico, bullying ou qualidade do ensino.
-— Atribuir a doença de alguém, como câncer ou diabetes, às suas escolhas de estilo de vida (como dieta, exercícios), ignorando fatores genéticos, ambientais e outros riscos além do controle individual.
-— Sugerir que vítimas de cyberbullying ou humilhação online provocaram isso em si mesmas por compartilhar muitas informações online ou participar de comunidades online específicas.
+(v) **Discussão sobre Feminismo:** Discussões que visam questionar os méritos, vantagens e desvantagens do movimento feminista são proibidas. Nossa comunidade reconhece a necessidade do feminismo para melhorias sociais e está aberta a soluções criativas para inclusão e respeito às mulheres nos espaços de tecnologia.
 
-## Escopo
+(vi) **Pretextos Religiosos ou Ideológicos:** Enquanto concordamos que todas as religiões e culturas devam ser respeitadas, não toleramos que sejam usadas como pretexto para a prática da misoginia. Exemplos incluem, mas não se limitam a: Cristãos devotos, defensores das morais e bons costumes, conservadores políticos, defensores dos valores familiares, defensores das ideologias Red Pill e demais pretextos para restringir a liberdade de escolha das mulheres.
 
-Comportamentos abusivos ou indesejáveis ainda impactam profundamente indivíduos e a comunidade quando acontecem fora dos nossos espaços físicos ou online. Se o comportamento de alguém fora da Comunidade Bitdevs faz você se sentir inseguro na Comunidade Bitdevs, isso é absolutamente relevante e passível de ação por nossa parte.
+**2.4. Assédio:**
+O assédio, seja online ou no mundo real, causa danos físicos e psicológicos às pessoas. Segue uma lista não exaustiva de instâncias de assédio que não serão toleradas nos ambientes virtuais ou físicos da escola.
 
-## Aplicação e Denúncia
+(i) **Ostracismo social:** Ação coordenada para ignorar e isolar indivíduos não será tolerada nos ambientes da escola. Também constitui ostracismo social a interferência na capacidade de alguém contribuir com críticas excessivas ou isolamento.
 
-Se você sentir que um membro da comunidade se envolveu em comportamento inapropriado, por favor, entre em contato com os admins dos grupos. **O mais importante, no entanto, é o comum entendimento do código de conduta para que como membros da comunidade consigamos manter padrões elevados de profissionalismo e respeito.**
+(ii) **Dogpiling:** Dogpiling é uma forma de assédio em que um grupo de pessoas ataca um indivíduo online para intimidá-lo ou humilhá-lo. Se descobrirmos algum membro da comunidade e escola participando de comunidades onde existe a prática de dogpiling, fora ou dentro dos ambientes da comunidade e escola, a suspensão dos ambientes da escola é imediata e sem necessidade de justificativa de nossa parte.
 
-**Por que devo denunciar? Por que se eu ver algo, devo dizer algo?**
-Você é responsável por tornar a Comunidade Bitdevs um espaço seguro e confortável para todos. Todos em nossa comunidade compartilham essa responsabilidade. Esperamos que isso não se torne um ambiente com denúncias que não são feitas de boa fé (como "sexismo reverso" ou "racismo reverso"). A ideia é mantermos o bom-senso e o profissionalismo, e absoluto respeito por todas as pessoas. 
+(iii) **Grupos de ódio organizados:** Grupos atuais ou históricos organizados para promover ideologias incluindo, mas não se limitando a, anti-LGBTQ, anti-muçulmano, antissemitismo, fascismo, supremacia masculina, nacionalismo branco ou supremacia branca. Temos consciência da existência destes grupos na internet e buscamos criar uma comunidade que seja livre da influência deles. Se descobrirmos algum membro da comunidade e escola participando de comunidades onde existe a prática de ódio ou desprezo contra outros grupos de pessoas, fora ou dentro dos ambientes da comunidade e escola, a suspensão dos ambientes da escola é imediata e sem necessidade de justificativa de nossa parte.
 
-## Ação Unilateral
+(iv) **Gangstalking:** Gangstalking é um termo abrangente que descreve uma série de técnicas utilizadas por um grupo para instilar instabilidade mental na vítima, com o objetivo de desacreditá-la, sabotá-la, assediá-la, extorqui-la e até levá-la ao suicídio. Uma vítima de gangstalking pode ter sua reputação, credibilidade, carreira, relacionamentos e toda a sua vida arruinada. Técnicas como jogos mentais, manipulação da percepção, perseguição organizada, assédio encoberto, vigilância constante e possivelmente assédio eletrônico são usadas para levar a vítima à instabilidade mental. Provar que alguém está sendo alvo de gangstalking pode ser muito desafiador, e há muito pouco apoio das forças de segurança, o que permite que o gangstalking seja extremamente eficaz. Se descobrirmos algum membro da comunidade e escola participando de comunidades onde existe a prática de gangstalking, fora ou dentro dos ambientes da comunidade e escola, a suspensão dos ambientes da escola é imediata e sem necessidade de justificativa de nossa parte.
 
-Se o ato estiver em andamento (como alguém praticando assédio), ou envolver uma ameaça à segurança de alguém (por exemplo, ameaças de violência), qualquer um dos admins pode agir imediatamente (antes de alcançar um consenso) para encerrar a situação. 
+(v) **Bullying:** Comportamentos, linguagens ou obras criativas que intimidem indivíduos são proibidos. Atos que qualificam como bullying incluem, mas não se limitam a ameaçar violência para intimidar, zombar com base no histórico sexual ou no status de sobrevivente de agressão sexual, compartilhar fotos ou vídeos degradantes e imagens depreciativas editadas. Memes que objetifiquem as mulheres sexualmente ou que as representem em posições humilhantes não serão tolerados.
 
-Em situações contínuas, qualquer membro pode, a seu critério, empregar qualquer uma das ferramentas disponíveis, incluindo proibições e bloqueios.
+(vi) **Perseguição:** Continuar a comunicação individual após uma das partes ter solicitado que cessasse. Perseguição e stalking online ou offline não serão tolerados nos ambientes da escola.
 
-Se o incidente envolver perigo físico, qualquer admin pode— e deve—agir unilateralmente para proteger a segurança. Quando um membro individual do age unilateralmente, ele deve relatar suas ações aos outros admins.
+(vii) **Retaliação:** Retaliação por denunciar ou ameaçar denunciar assédio também não será tolerada.
 
-## Regras Sociais
+(viii) **Discursos de Ódio:** Linguagem ofensiva direcionada a indivíduos ou grupos de pessoas com base em: casta, deficiência, etnia, identidade de gênero, status de imigração, origem nacional, raça, religião, condição médica grave, sexo ou orientação sexual. Os ataques podem incluir (mas não se limitam a) linguagem desumanizadora, insultos ou estereótipos prejudiciais, e incitações à violência, exclusão ou segregação.
 
-Além de ter um código de conduta, temos quatro regras sociais leves. As regras sociais são diferentes e separadas do código de conduta. Elas nos ajudam a criar um ambiente de aprendizado melhor, dando nomes a comportamentos contraproducentes e atuando como uma válvula de escape para que a frustração não se acumule ao longo do tempo. 
+(ix) **Assédio Sexual:** Atenção sexual indesejada. Exibição visual inapropriada, memes, fotografias, desenhos animados, desenhos ou gestos sexualmente orientados ou ofensivos, ou que objetificam mulheres sexualmente. Contato físico inapropriado e atenção sexual ou romântica indesejada.
 
-Esperamos que as pessoas quebrem as regras sociais de vez em quando, sem intenção. Fazer isso não te torna uma pessoa ruim ou um membro ruim da comunidade. Quando isso acontece, não é um grande problema. **Apenas peça desculpas e siga em frente.**
+(x) **Ameaças e Incitação à Violência:** Ameaças e incitações à violência ou danos físicos são tratadas com a máxima seriedade. Comportamentos proibidos incluem, mas não se limitam a organizar ou divulgar planos aspiracionais, condicionais ou credíveis para um ato violento; solicitar conselhos para, defender ou ameaçar a segurança de indivíduos públicos ou privados.
 
-A Comunidade Bitdevs tem quatro regras sociais. Elas ajudam a criar um ambiente amigável e intelectual onde você pode gastar o máximo de energia possível em aprendizado e programação.
+(xi) **Doxxing:** Doxxing é uma forma de assédio em que alguém compartilha informações pessoalmente identificáveis de um indivíduo (por exemplo, endereço residencial, número de telefone, informações de conta bancária, informações médicas) online sem consentimento. Esse ato abusivo pode levar a danos online e offline contra o indivíduo, como perseguição, sofrimento emocional, dano físico, perda de emprego e roubo de identidade. Exceções a essa política podem incluir alguém publicando suas próprias informações pessoalmente identificáveis, publicando informações pessoalmente identificáveis de outra pessoa com o consentimento do indivíduo e informações sensíveis de documentos devidamente no domínio público (por exemplo, processos judiciais, comunicados de imprensa, artigos de notícias).
 
-As regras sociais são:
+**2.4.1. Outras Proibições:**
 
-- Sem: “Bom, na verdade”
-- Sem surpresa fingida
-- Sem “dirigir do banco de trás”
-- Sem expressões sutis de preconceito
+(i) **Terroristas ou organizações terroristas:** Atores não estatais que cometem, defendem ou apoiam atos de violência contra civis por objetivos políticos, religiosos ou ideológicos. A Scalar School proíbe estritamente o terrorismo e o extremismo violento nos espaços da comunidade. Se descobrirmos algum membro da comunidade e escola participando de organizações terroristas, fora ou dentro dos ambientes da escola, a suspensão dos ambientes da escola é imediata.
 
-As regras sociais nomeiam comportamentos sutis que diminuem os outros ou mostram o quanto sabemos, em vez de apoiar o aprendizado mútuo. Elas trabalham com as autodiretrizes para tornar a Comunidade Bitdevs um lugar ainda melhor para aprender e crescer.
+(ii) **Organizações criminosas:** Grupos ou associados envolvidos em atividades ou empreendimentos criminosos, incluindo, mas não se limitando a crimes violentos (por exemplo, tortura, homicídio), sequestro, tráfico (por exemplo, de pessoas, drogas, armas de fogo) ou crimes financeiros (por exemplo, lavagem de dinheiro, extorsão, golpes, fraude). Se descobrirmos algum membro da comunidade e escola participando de organizações criminosas, fora ou dentro dos ambientes da escola, a suspensão dos ambientes da escola é imediata.
 
-Trabalhar no limite de suas habilidades exige correr riscos emocionais, e as regras sociais ajudam a criar um ambiente onde é seguro fazer isso. Informar alguém que eles impactaram você ao quebrar uma regra social e aceitar esse feedback graciosamente quando você é quem errou são maneiras importantes de aprender generosamente. Isso permite que todos continuem trabalhando e crescendo juntos.
+(iii) **Envolvidos ativamente em conflitos armados:** Milícias armadas ou outros grupos que estão ativamente envolvidos em conflitos, treinamento militar ou aquisição de equipamento militar; indivíduos perpetuadores de violência em massa. Se descobrirmos algum membro da comunidade e escola participando de organizações que perpetuam a violência em massa, fora ou dentro dos ambientes da escola, a suspensão dos ambientes da escola é imediata.
 
-Uma coisa que frequentemente surpreende as pessoas sobre as regras sociais é que esperamos que as pessoas as quebrem ocasionalmente. Isso significa que elas são diferentes do nosso código de conduta, que cobre comportamentos que nunca são aceitáveis, como abuso, discriminação e assédio.
+**2.4.2. Normas de Conduta Geral:**
 
-**Sem "na verdade"**
-Alice: Acabei de instalar Linux no meu computador!
-Bob: Na verdade, é chamado GNU/Linux.
+(i) **Respeito e Cortesia:** O respeito e a cortesia mútuos devem prevalecer, valorizando diversos antecedentes, culturas, opiniões, raças, cores, credos, religiões, orientações sexuais e gêneros.
 
-Um "na verdade" ocorre quando você corrige alguém sobre algo irrelevante para a conversa ou tangencial ao que estão tentando dizer. São ruins porque não são úteis, interrompem o fluxo da conversa e focam a atenção na pessoa que faz a correção.
+(ii) **Responsabilidade e Honestidade:** Estudantes, parceiros e professores devem assumir responsabilidade por suas ações e permanecer honestos em todas as interações.
 
-Esta regra pode ser complicada porque não há uma linha clara entre o que é relevante para a conversa e o que não é. Às vezes, sua correção pode realmente ser necessária, e ainda assim pode parecer irritante quando você a faz. A melhor regra geral é se você não tem certeza se algo precisa ser dito agora, espere e veja o que acontece. Você sempre pode dizer mais tarde se não houver maneira da conversa prosseguir sem a sua correção.
+(iii) **Segurança:** A segurança física e emocional é uma prioridade. Qualquer forma de misoginia, homofobia, transfobia, xenofobia ou comportamento que prejudique o desenvolvimento de outros não é tolerada. Existe um grande grupo organizado de ódio contra mulheres no desenvolvimento Bitcoin e na indústria da tecnologia no geral, e visamos criar um refúgio seguro das ações deste grupo.
 
-**Sem fingir surpresa**
-Dan: O que é a linha de comando?
-Carol: O que, você nunca usou a linha de comando?????
+(iv) **Participação Ativa:** Todos os estudantes são encorajados a se engajar ativamente nas atividades escolares, respeitando as normas e regulamentos estabelecidos.
 
-Fingir surpresa é quando você age surpreso quando alguém não sabe de algo. Responder com surpresa nessa situação faz as pessoas se sentirem mal por não saberem coisas e menos propensas a fazer perguntas no futuro, o que dificulta o aprendizado delas.
+(v) **Anti-Ameaças:** Ameaçar alguém fisicamente ou verbalmente, por exemplo, ameaçar publicar informações sensíveis sobre a vida pessoal de alguém, não será tolerado.
 
-"Sem fingir surpresa" não é um ótimo nome. Quando alguém age surpreso porque você não sabe de algo, não importa se estão fingindo estar surpresos ou realmente surpresos. O efeito é o mesmo: na próxima vez que você tiver uma pergunta, é mais provável que você fique calado. 
+(vi) **Uso de Substâncias:** O uso de substâncias ilegais, como drogas e álcool, é estritamente proibido durante qualquer aula, curso, encontro ou palestra.
 
-**Sem dirigir do banco de trás**
-Bob: Qual é o nome da função de cópia de string?
-Alice: Strncpy.
-Eve: (do outro lado da sala) Você deveria usar strlcpy. É mais seguro.
+(vii) **Privacidade e Confidencialidade:** Todos devem respeitar a privacidade e os dados pessoais de outros, compartilhando informações apenas com permissão explícita.
 
-Dirigir do banco de trás é quando você dá conselhos de longe (ou através do chat online) sem realmente se juntar ou se envolver na conversa. Como você não participou da conversa, é fácil perder algo importante e dar um conselho que não é realmente útil. Mesmo que seu conselho esteja correto, invadir uma conversa sem perguntar é indelicado. Se você ouvir uma conversa onde poderia ser útil, a melhor coisa a fazer é pedir para participar.
+**2.5. Processo de Gestão de Incidentes:** Qualquer um pode relatar condutas que violem nossas regras. Incidentes devem ser relatados enviando uma mensagem privada para Luciana via Discord ou email para luciana@scalarschool.org. Detalhes do incidente, incluindo o que aconteceu, quando e quem estava envolvido, serão registrados confidencialmente.
 
-Sem expressões sutis de preconceito
-Carol: Windows é difícil de usar.
-Bob: De jeito nenhum. Windows é tão fácil de usar que até minha mãe consegue usar.
+**2.6. Ações Disciplinares:** Dependendo das descobertas, medidas como advertências ou expulsão podem ser aplicadas conforme descrito neste Código de Conduta. Encorajamos a denúncia de qualquer comportamento que viole este código de conduta. As denúncias serão tratadas com confidencialidade e profissionalismo.
 
-Essas são expressões sutis de racismo, sexismo, idadismo (preconceito com idade), homofobia, transfobia e outros tipos de preconceito e discriminação. São pequenas coisas que fazem os outros se sentirem indesejados, coisas que às vezes fazemos por engano. Isso faz as pessoas sentirem que não pertencem à Comunidade Bitdevs. Queremos criar um ambiente onde todos possam focar toda a sua energia em aprender e programar. É difícil fazer isso se você está regularmente sendo levado a questionar se pertence.
+---
 
-Isso também podem ser coisas que você faz em vez de dizer. Isso inclui coisas como excluir a única mulher durante uma discussão ou assumir que alguém não é programador por causa de sua raça ou gênero.
+## 3. DIREITOS SOBRE SEU COMPORTAMENTO
 
-A quarta regra social é mais complicada que as outras. Nem todos concordam sobre o que constitui uma expressão sutil de preconceito. Eles stão enraizados na sociedade de maneiras que podem torná-los difíceis de reconhecer. E nem todos experimentam eses preconceitos da mesma maneira: homofobia sutil não machuca alguém que é heterossexual da mesma maneira que machuca alguém que é gay.
+**3.1. Violações:** Qualquer violação destas diretrizes, ou da legislação civil ou penal do Brasil, resultará em ações disciplinares apropriadas, que podem incluir advertências, suspensão ou expulsão, dependendo da gravidade da infração, sem prejuízo de sanções jurídicas cíveis e criminais, os quais serão avaliados pelo departamento jurídico competente. Consistindo nas sanções disciplinares da seguinte forma:
 
-**Se você ver racismo, sexismo, misoginia etc. fora da Comunidade Bitdevs, por favor, não traga para dentro.**
+(i) 1ª Violação: Advertência verbal.
+(ii) 2ª Violação: Você será expulso da Comunidade e Escola.
 
-Por exemplo, por favor, não inicie uma discussão sobre o último comentário ofensivo da Pessoa Técnica Aleatória Y. Todos que vêm à Comunidade Bitdevs devem ter a mesma oportunidade de focar em aprender e programar, e pessoas de grupos oprimidos muitas vezes acham discussões sobre racismo, sexismo etc. particularmente difíceis de ignorar. 
+**3.2. Execução:** Dependendo da gravidade de suas ações, a comunidade e escola podem imediatamente expulsá-lo, e você também pode enfrentar ações legais conforme avaliado pelo nosso departamento jurídico.
 
-Há muitos lugares para discutir e debater essas questões, mas há poucos onde as pessoas podem evitá-las. A Comunidade Bitdevs é um desses lugares.
+**3.3. Veja Algo, Diga Algo:** Ajude-nos a manter o espaço inclusivo para mulheres e para todas as pessoas. Seja a mudança que queremos ver na sociedade—com mais inclusão, paz e prosperidade para todos. Denúncias podem ser feitas enviando DM pelo Discord para @biohazel.
 
-**Como funcionam?**
-As regras sociais são leves. Você não deve ter medo de quebrar uma regra social. Essas são coisas que todos fazem, e quebrar uma não te faz uma pessoa ruim. Se alguém disser, "ei, você acabou de fingir surpresa", ou "isso é sutilmente sexista", ou “Isso é misógino!” não se preocupe. Apenas peça desculpas, reflita por um segundo e siga em frente. Todos nós estamos aprendendo a quebrar os ciclos de abuso sob o qual fomos criados.
+**3.4. Aja de Boa Fé:** Você é responsável por tornar a Comunidade e Escola um espaço seguro e confortável para todos. Todos em nossa comunidade compartilham essa responsabilidade. Esperamos que isso não se torne um ambiente com denúncias que não são feitas de boa fé (como "sexismo reverso" ou "racismo reverso"). A ideia é mantermos o bom-senso e o profissionalismo, e absoluto respeito por todas as pessoas.
 
-As regras sociais não são para punir as pessoas. Elas ajudam a tornar a Comunidade Bitdevs um ambiente agradável onde você pode ser você mesmo, enfrentar desafios fora da sua zona de conforto e focar no aprendizado.
+---
 
-## Quando buscar ajuda imediata
+## 4. INFORMAÇÕES ADICIONAIS
 
-Entre em contato diretamente com as autoridades policiais (ligue para o 190) para denunciar atividades criminosas (por exemplo, agressão física, agressão sexual, roubo) ou para relatar uma situação física perigosa (por exemplo, incêndio, lesão grave, medo de que alguém se machuque ou machuque outra pessoa).
+**4.1. Alterações:** Para melhorar sua experiência, a comunidade e a escola estão sempre sendo atualizadas. Este Código de Conduta pode ser alterado a qualquer momento para refletir esses ajustes. Você será informado de qualquer mudança antecipadamente.
 
-## Considerações Finais
+**4.2. Conflito entre Disposições:** Em caso de conflito entre estes termos e os termos modificadores, os termos posteriores prevalecerão em relação a esse conflito.
 
-> *"Eu participei de muitas comunidades online nos últimos 20 anos. Nunca vi uma comunidade se desintegrar devido ao banimento excessivo de trolls, mas quase todas se desintegraram devido ao excesso de trolling. Eu encorajaria fortemente qualquer comunidade online a adotar uma política semelhante."*
+**4.3. Lei e Foro:** Este Código de Conduta é regido pelas leis da República Federativa do Brasil. Questões não previstas neste Código serão inicialmente resolvidas pela comunidade e escola e, caso persistam, deverão ser solucionadas pelo Foro da Comarca de Ribeirão Preto, São Paulo, com exclusão de qualquer outro.
 
-https://blog.izs.me/2012/08/policy-on-trolling/
+**4.4. Dúvidas:** Caso você tenha alguma dúvida, comentário ou sugestão, por favor, entre em contato conosco por meio do e-mail: luciana@scalarschool.org.
