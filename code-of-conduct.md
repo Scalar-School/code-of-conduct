@@ -38,17 +38,17 @@ We live in a diverse world, yet mutual respect for differences is non-negotiable
 
 **2.3. Specific Guidelines:**
 
-(i) **Gender Equity:** Men, women, and all genders are welcome. We aim for gender equity close to 50/50 between men and women, as we believe this has the potential to create better software and fairer societies.
+(i) **Gender Equity:** All genders are welcome. We aim for gender equity close to 50/50 between men and women, as we believe this has the potential to create better software and fairer societies.
 
-(ii) **Prohibition of Misogynistic Content:** The use of content that sexually objectifies women or demeans them intellectually is strictly prohibited. This includes, but is not limited to, references to Bitcoin Red Pill, 'cortes 38tão', and any materials or statements that demean women, their intellectual capacity, or their right to fully participate in the open developer community.
+(ii) **Prohibition of Misogynistic Content:** The use of content that sexually objectifies any individual or demeans them intellectually is strictly prohibited. This includes, but is not limited to, references to Bitcoin Red Pill, 'cortes 38tão', and any materials or statements that demean women, their intellectual capacity, or their right to fully participate in the open developer community.
 
-(iii) **Anti-Feminism and Biological Typification:** Anti-feminist materials and communications that use biological typifications are prohibited. For example, claims like "Women tend to XYZ" or "Men like KWY" are not accepted.
+(iii) **Gender Equality and Biological Typification:** Any materials or communications that perpetuate gender stereotypes or biological typifications are prohibited. For example, claims like "Women tend to XYZ" or "Men like KWY" are not accepted. This includes but is not limited to statements that undermine the value or capabilities of any gender.
 
 (iv) **Microaggressions and Subtle Misogynies:** Microaggressions, such as comments that underestimate women's intellectual capacity, are prohibited. An example is saying "There were women at Bitdevs, they managed to participate even in the most difficult technical subjects," which implies intellectual inferiority based on gender.
 
-(v) **Discussion of Feminism:** Discussions aimed at questioning the merits, advantages, and disadvantages of the feminist movement are prohibited. Our community recognizes the need for feminism for social improvements and is open to creative solutions for the inclusion and respect of women in technology spaces.
+(v) **Respectful Discussion of Social Movements:** Discussions that question the fundamental merits of social movements, including feminism, are prohibited. Our community recognizes the importance of feminism and other social movements for achieving equality and respect for all genders in technology spaces. We welcome creative solutions for fostering inclusion and respect within our community.
 
-(vi) **Religious or Ideological Pretexts:** While we agree that all religions and cultures should be respected, we do not tolerate them being used as a pretext for practicing misogyny. Examples include, but are not limited to, devout Christians, defenders of morals and good customs, political conservatives, defenders of family values, Red Pill ideology supporters, and other pretexts to restrict women's freedom of choice.
+(vi) **Religious or Ideological Pretexts:** Our community respects all religions and cultures but does not tolerate their use as a pretext for practicing misogyny or restricting anyone’s freedom of choice. This includes, but is not limited to, justifications based on religious beliefs, moral values, political ideologies, or any other ideologies that seek to limit the rights and freedoms of others.
 
 **2.4. Harassment:**
 Harassment, whether online or in the real world, causes physical and psychological harm to people. Here is a non-exhaustive list of instances of harassment that will not be tolerated in the school's virtual or physical environments.
@@ -67,9 +67,9 @@ Harassment, whether online or in the real world, causes physical and psychologic
 
 (vii) **Retaliation:** Retaliation for reporting or threatening to report harassment will not be tolerated.
 
-(viii) **Hate Speech:** Offensive language directed at individuals or groups of people based on caste, disability, ethnicity, gender identity, immigration status, national origin, race, religion, serious medical condition, sex, or sexual orientation. Attacks may include (but are not limited to) dehumanizing language, harmful slurs or stereotypes, and calls for violence, exclusion, or segregation.
+(viii) **Hate Speech:** Offensive language directed at individuals or groups of people based on caste, disability, ethnicity, gender identity, age, immigration status, national origin, race, religion, serious medical condition, sex, or sexual orientation. Attacks may include (but are not limited to) dehumanizing language, harmful slurs or stereotypes, and calls for violence, exclusion, or segregation.
 
-(ix) **Sexual Harassment:** Unwanted sexual attention. Inappropriate visual displays, memes, photographs, cartoons, drawings, or gestures that are sexually oriented or offensive, or that sexually objectify women. Inappropriate physical contact and unwanted sexual or romantic attention.
+(ix) **Sexual Harassment:** Unwanted sexual attention. Inappropriate visual displays, memes, photographs, cartoons, drawings, or gestures that are sexually oriented or offensive, or that sexually objectify any individual. Inappropriate physical contact and unwanted sexual or romantic attention.
 
 (x) **Threats and Incitement to Violence:** Threats and incitements to violence or physical harm are treated with the utmost seriousness. Prohibited behaviors include, but are not limited to, organizing or disclosing aspirational, conditional, or credible plans for a violent act; soliciting advice for, advocating for, or threatening the safety of public or private individuals.
 
@@ -89,7 +89,7 @@ Harassment, whether online or in the real world, causes physical and psychologic
 
 (ii) **Responsibility and Honesty:** Students, partners, and teachers must take responsibility for their actions and remain honest in all interactions.
 
-(iii) **Safety:** Physical and emotional safety is a priority. Any form of misogyny, homophobia, transphobia, xenophobia, or behavior that harms others' development is not tolerated. There is a large organized hate group against women in Bitcoin development and the technology industry in general, and we aim to create a safe haven from this group's actions.
+(iii) **Safety:** Physical and emotional safety is a priority. Any form of misogyny, ageism, homophobia, transphobia, xenophobia, or behavior that harms others' development is not tolerated. There is a large organized hate group against women in Bitcoin development and the technology industry in general, and we aim to create a safe haven from this group's actions.
 
 (iv) **Active Participation:** All students are encouraged to actively engage in school activities, respecting established norms and regulations.
 
@@ -109,14 +109,15 @@ Harassment, whether online or in the real world, causes physical and psychologic
 
 **3.1. Violations:** Any violation of these guidelines, or of Brazilian civil or criminal law, will result in appropriate disciplinary actions, which may include warnings, suspension, or expulsion, depending on the severity of the offense, without prejudice to civil and criminal legal sanctions, which will be assessed by the competent legal department. The disciplinary sanctions are as follows:
 
-(i) 1st Violation: Verbal warning.
-(ii) 2nd Violation: You will be expelled from the Community and School.
+(i) 1st Violation: Verbal or written warning.
+(ii) 2nd Violation: Verbal or written warning.
+(iii) 3rd Violation: You will be expelled from the Community and School.
 
 **3.2. Enforcement:** Depending on the severity of your actions, the community and school may immediately expel you, and you may also face legal action as assessed by our legal department.
 
 **3.3. See Something, Say Something:** Help us keep the space inclusive for women and everyone. Be the change we want to see in society—with more inclusion, peace, and prosperity for all. Reports can be made by sending a DM via Discord to @biohazel.
 
-**3.4. Act in Good Faith:** You are responsible for making the Community and School a safe and comfortable space for everyone. Everyone in our community shares this responsibility. We hope this does not become an environment with reports not made in good faith (such as "reverse sexism" or "reverse racism"). The idea is to maintain common sense, professionalism, and absolute respect for everyone.
+**3.4. Act in Good Faith:** You are responsible for making the Community and School a safe and comfortable space for everyone. This responsibility is shared by all members of our community. We encourage reports to be made in good faith and not used to undermine the principles of equality and respect. Our goal is to maintain common sense, professionalism, and absolute respect for everyone.
 
 ---
 
